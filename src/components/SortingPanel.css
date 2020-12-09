@@ -1,0 +1,29 @@
+.sorting-tabs {
+  border: 1px solid #DFE5EC;
+  background: #FFFFFF;
+  border-radius: 5px;
+  display: flex;
+  flex-direction: row;
+  height: 50px;
+  cursor: pointer;
+}
+
+.sorting-tab {
+  width: 251px;
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 12px;
+  line-height: 20px;
+  letter-spacing: 0.5px;
+  text-transform: uppercase;
+  color: #4A4A4A;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.sorting-active {
+  background-color: #2196F3;
+  color: #FFFFFF;
+}

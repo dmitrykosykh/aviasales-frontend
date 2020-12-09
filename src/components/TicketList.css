@@ -1,0 +1,21 @@
+.ticket-list {
+  width: 960px;
+  min-height: 1350px;
+  background: #F3F7FA;
+}
+
+.ticket-list__logo {
+  display: flex;
+  justify-content: center;
+  margin-top: 4%;
+}
+
+.ticket-list__content {
+  display: flex;
+  justify-content: center;
+  margin-top: 3%;
+}
+
+.ticket-list__content>div {
+  margin: 10px;
+}
